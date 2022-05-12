@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "6u4C8hHkxdOv762sYt2k3aEmztQuGRVTaEsPnz9r7IPRWYs8dXg7BCZJhCFSj8nA+JzzdGXEvaRx8FeALe1JmQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\JWT FATİH HOCA\\AKAR_JWT_PROJECT\\MiniApp.WebApiThird\\MiniApp.WebApiThird.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Muhammed Berkay AKAR\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Muhammed Berkay AKAR\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Muhammed Berkay AKAR\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Muhammed Berkay AKAR\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Muhammed Berkay AKAR\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Muhammed Berkay AKAR\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}

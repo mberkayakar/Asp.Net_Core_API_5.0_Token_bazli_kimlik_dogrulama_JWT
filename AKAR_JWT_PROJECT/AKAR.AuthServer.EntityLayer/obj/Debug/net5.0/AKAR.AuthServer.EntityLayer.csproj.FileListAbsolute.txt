@@ -1,0 +1,12 @@
+C:\Users\Muhammed Berkay AKAR\Desktop\JWT FATİH HOCA\AKAR_JWT_PROJECT\AKAR.AuthServer.EntityLayer\bin\Debug\net5.0\AKAR.AuthServer.EntityLayer.deps.json
+C:\Users\Muhammed Berkay AKAR\Desktop\JWT FATİH HOCA\AKAR_JWT_PROJECT\AKAR.AuthServer.EntityLayer\bin\Debug\net5.0\AKAR.AuthServer.EntityLayer.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\JWT FATİH HOCA\AKAR_JWT_PROJECT\AKAR.AuthServer.EntityLayer\bin\Debug\net5.0\AKAR.AuthServer.EntityLayer.pdb
+C:\Users\Muhammed Berkay AKAR\Desktop\JWT FATİH HOCA\AKAR_JWT_PROJECT\AKAR.AuthServer.EntityLayer\obj\Debug\net5.0\AKAR.AuthServer.EntityLayer.csproj.AssemblyReference.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\JWT FATİH HOCA\AKAR_JWT_PROJECT\AKAR.AuthServer.EntityLayer\obj\Debug\net5.0\AKAR.AuthServer.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammed Berkay AKAR\Desktop\JWT FATİH HOCA\AKAR_JWT_PROJECT\AKAR.AuthServer.EntityLayer\obj\Debug\net5.0\AKAR.AuthServer.EntityLayer.AssemblyInfoInputs.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\JWT FATİH HOCA\AKAR_JWT_PROJECT\AKAR.AuthServer.EntityLayer\obj\Debug\net5.0\AKAR.AuthServer.EntityLayer.AssemblyInfo.cs
+C:\Users\Muhammed Berkay AKAR\Desktop\JWT FATİH HOCA\AKAR_JWT_PROJECT\AKAR.AuthServer.EntityLayer\obj\Debug\net5.0\AKAR.AuthServer.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\JWT FATİH HOCA\AKAR_JWT_PROJECT\AKAR.AuthServer.EntityLayer\obj\Debug\net5.0\AKAR.AuthServer.EntityLayer.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\JWT FATİH HOCA\AKAR_JWT_PROJECT\AKAR.AuthServer.EntityLayer\obj\Debug\net5.0\refint\AKAR.AuthServer.EntityLayer.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\JWT FATİH HOCA\AKAR_JWT_PROJECT\AKAR.AuthServer.EntityLayer\obj\Debug\net5.0\AKAR.AuthServer.EntityLayer.pdb
+C:\Users\Muhammed Berkay AKAR\Desktop\JWT FATİH HOCA\AKAR_JWT_PROJECT\AKAR.AuthServer.EntityLayer\obj\Debug\net5.0\ref\AKAR.AuthServer.EntityLayer.dll

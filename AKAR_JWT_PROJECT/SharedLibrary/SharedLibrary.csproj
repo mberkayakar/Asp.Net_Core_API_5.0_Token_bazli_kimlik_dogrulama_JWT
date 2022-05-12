@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+	
+	<!--ASP.NET CORE Frameworkü içerisindeki tüm kütüphaneleri eklemeye açlışıyoruz-->
+	
+	<ItemGroup>
+		<FrameworkReference Include="Microsoft.AspNetCore.App">
+
+		</FrameworkReference>
+	</ItemGroup>	
+</Project>
+
+
+ 

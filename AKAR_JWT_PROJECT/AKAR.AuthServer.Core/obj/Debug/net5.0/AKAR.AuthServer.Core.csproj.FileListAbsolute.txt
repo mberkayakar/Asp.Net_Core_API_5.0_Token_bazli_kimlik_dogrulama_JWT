@@ -1,0 +1,15 @@
+C:\Users\Muhammed Berkay AKAR\Desktop\JWT FATİH HOCA\AKAR_JWT_PROJECT\AKAR.AuthServer.Core\obj\Debug\net5.0\AKAR.AuthServer.Core.csproj.AssemblyReference.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\JWT FATİH HOCA\AKAR_JWT_PROJECT\AKAR.AuthServer.Core\obj\Debug\net5.0\AKAR.AuthServer.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammed Berkay AKAR\Desktop\JWT FATİH HOCA\AKAR_JWT_PROJECT\AKAR.AuthServer.Core\obj\Debug\net5.0\AKAR.AuthServer.Core.AssemblyInfoInputs.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\JWT FATİH HOCA\AKAR_JWT_PROJECT\AKAR.AuthServer.Core\obj\Debug\net5.0\AKAR.AuthServer.Core.AssemblyInfo.cs
+C:\Users\Muhammed Berkay AKAR\Desktop\JWT FATİH HOCA\AKAR_JWT_PROJECT\AKAR.AuthServer.Core\obj\Debug\net5.0\AKAR.AuthServer.Core.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\JWT FATİH HOCA\AKAR_JWT_PROJECT\AKAR.AuthServer.Core\bin\Debug\net5.0\AKAR.AuthServer.Core.deps.json
+C:\Users\Muhammed Berkay AKAR\Desktop\JWT FATİH HOCA\AKAR_JWT_PROJECT\AKAR.AuthServer.Core\bin\Debug\net5.0\AKAR.AuthServer.Core.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\JWT FATİH HOCA\AKAR_JWT_PROJECT\AKAR.AuthServer.Core\bin\Debug\net5.0\AKAR.AuthServer.Core.pdb
+C:\Users\Muhammed Berkay AKAR\Desktop\JWT FATİH HOCA\AKAR_JWT_PROJECT\AKAR.AuthServer.Core\obj\Debug\net5.0\AKAR.AuthServer.Core.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\JWT FATİH HOCA\AKAR_JWT_PROJECT\AKAR.AuthServer.Core\obj\Debug\net5.0\refint\AKAR.AuthServer.Core.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\JWT FATİH HOCA\AKAR_JWT_PROJECT\AKAR.AuthServer.Core\obj\Debug\net5.0\AKAR.AuthServer.Core.pdb
+C:\Users\Muhammed Berkay AKAR\Desktop\JWT FATİH HOCA\AKAR_JWT_PROJECT\AKAR.AuthServer.Core\obj\Debug\net5.0\ref\AKAR.AuthServer.Core.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\JWT FATİH HOCA\AKAR_JWT_PROJECT\AKAR.AuthServer.Core\bin\Debug\net5.0\SharedLibrary.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\JWT FATİH HOCA\AKAR_JWT_PROJECT\AKAR.AuthServer.Core\bin\Debug\net5.0\SharedLibrary.pdb
+C:\Users\Muhammed Berkay AKAR\Desktop\JWT FATİH HOCA\AKAR_JWT_PROJECT\AKAR.AuthServer.Core\obj\Debug\net5.0\AKAR.AuthServer.Core.csproj.CopyComplete

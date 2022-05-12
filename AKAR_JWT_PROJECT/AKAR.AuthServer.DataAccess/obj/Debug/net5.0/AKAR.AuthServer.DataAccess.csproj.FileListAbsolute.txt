@@ -1,0 +1,17 @@
+C:\Users\Muhammed Berkay AKAR\Desktop\JWT FATİH HOCA\AKAR_JWT_PROJECT\AKAR.AuthServer.DataAccess\bin\Debug\net5.0\AKAR.AuthServer.DataAccess.deps.json
+C:\Users\Muhammed Berkay AKAR\Desktop\JWT FATİH HOCA\AKAR_JWT_PROJECT\AKAR.AuthServer.DataAccess\bin\Debug\net5.0\AKAR.AuthServer.DataAccess.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\JWT FATİH HOCA\AKAR_JWT_PROJECT\AKAR.AuthServer.DataAccess\bin\Debug\net5.0\AKAR.AuthServer.DataAccess.pdb
+C:\Users\Muhammed Berkay AKAR\Desktop\JWT FATİH HOCA\AKAR_JWT_PROJECT\AKAR.AuthServer.DataAccess\obj\Debug\net5.0\AKAR.AuthServer.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\JWT FATİH HOCA\AKAR_JWT_PROJECT\AKAR.AuthServer.DataAccess\obj\Debug\net5.0\AKAR.AuthServer.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammed Berkay AKAR\Desktop\JWT FATİH HOCA\AKAR_JWT_PROJECT\AKAR.AuthServer.DataAccess\obj\Debug\net5.0\AKAR.AuthServer.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\JWT FATİH HOCA\AKAR_JWT_PROJECT\AKAR.AuthServer.DataAccess\obj\Debug\net5.0\AKAR.AuthServer.DataAccess.AssemblyInfo.cs
+C:\Users\Muhammed Berkay AKAR\Desktop\JWT FATİH HOCA\AKAR_JWT_PROJECT\AKAR.AuthServer.DataAccess\obj\Debug\net5.0\AKAR.AuthServer.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\JWT FATİH HOCA\AKAR_JWT_PROJECT\AKAR.AuthServer.DataAccess\obj\Debug\net5.0\AKAR.AuthServer.DataAccess.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\JWT FATİH HOCA\AKAR_JWT_PROJECT\AKAR.AuthServer.DataAccess\obj\Debug\net5.0\refint\AKAR.AuthServer.DataAccess.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\JWT FATİH HOCA\AKAR_JWT_PROJECT\AKAR.AuthServer.DataAccess\obj\Debug\net5.0\AKAR.AuthServer.DataAccess.pdb
+C:\Users\Muhammed Berkay AKAR\Desktop\JWT FATİH HOCA\AKAR_JWT_PROJECT\AKAR.AuthServer.DataAccess\obj\Debug\net5.0\ref\AKAR.AuthServer.DataAccess.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\JWT FATİH HOCA\AKAR_JWT_PROJECT\AKAR.AuthServer.DataAccess\bin\Debug\net5.0\AKAR.AuthServer.Core.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\JWT FATİH HOCA\AKAR_JWT_PROJECT\AKAR.AuthServer.DataAccess\bin\Debug\net5.0\AKAR.AuthServer.Core.pdb
+C:\Users\Muhammed Berkay AKAR\Desktop\JWT FATİH HOCA\AKAR_JWT_PROJECT\AKAR.AuthServer.DataAccess\obj\Debug\net5.0\AKAR.AuthServer.DataAccess.csproj.CopyComplete
+C:\Users\Muhammed Berkay AKAR\Desktop\JWT FATİH HOCA\AKAR_JWT_PROJECT\AKAR.AuthServer.DataAccess\bin\Debug\net5.0\SharedLibrary.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\JWT FATİH HOCA\AKAR_JWT_PROJECT\AKAR.AuthServer.DataAccess\bin\Debug\net5.0\SharedLibrary.pdb
